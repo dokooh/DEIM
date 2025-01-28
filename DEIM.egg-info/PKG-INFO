@@ -1,0 +1,27 @@
+Metadata-Version: 2.2
+Name: DEIM
+Version: 0.1.0
+Summary: A brief description of your project
+Home-page: DEIM: DETR with Improved Matching for Fast Convergence
+Author: Shihua Huang
+Author-email: www.shihuahuang.cn/
+Classifier: Programming Language :: Python :: 3
+Classifier: License :: OSI Approved :: MIT License
+Classifier: Operating System :: OS Independent
+Requires-Python: >=3.11
+Description-Content-Type: text/markdown
+License-File: LICENSE
+Requires-Dist: faster-coco-eval>=1.6.5
+Requires-Dist: PyYAML
+Requires-Dist: tensorboard
+Requires-Dist: scipy
+Requires-Dist: calflops
+Requires-Dist: transformers
+Dynamic: author
+Dynamic: author-email
+Dynamic: classifier
+Dynamic: description-content-type
+Dynamic: home-page
+Dynamic: requires-dist
+Dynamic: requires-python
+Dynamic: summary
